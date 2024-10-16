@@ -1,1 +1,1 @@
-![Demo](codesnamescheat.gif)
+![Demo](./codesnamescheat.gif)
