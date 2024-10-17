@@ -1,7 +1,7 @@
 
 # Codenames Game Automation
 
-This script automates capturing a screenshot of a Codenames online game using Selenium.
+This script automates capturing a screenshot of a Codenames online game as spymaster using Selenium then leaves.
 It navigates the game, enters a nickname, joins as Spymaster, and switches to Spectator mode. 
 A screenshot is taken and processed with Pillow for resizing and image enhancements.
 
