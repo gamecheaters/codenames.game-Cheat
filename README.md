@@ -1,1 +1,1 @@
-![Demo](codenamescheat.gif)
+<img src="./codesnamescheat.gif" alt="Demo" width="800" />
