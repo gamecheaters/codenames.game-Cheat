@@ -11,3 +11,7 @@ It goes fast enough to where nobody notices, Ive used it in live lobbies in disc
 <img src="codenamescheat.gif" alt="Demo" width="1000" />
 
 Instructions on how to use the tool...
+
+all you have to do is press start
+
+you need firefox and make sure it is in the right directory.
