@@ -1,5 +1,5 @@
 
-# Codenames Game CHeat.
+# Codenames Game Cheat.
 
 This script automates capturing a screenshot of a Codenames online game as spymaster using Selenium then leaves.
 It navigates the game, enters a nickname, joins as Spymaster, and switches to Spectator mode. 
